@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me:
-Improving my skills in Machine Learning and AI<br>Understanding advanced AI concepts like reinforcement learning<br>and natural language processing<br>Love building ML models, exploring new tech stacks<br><br>
+Improving my skills in Machine Learning and AI<br>Understanding advanced AI concepts <br>and natural language processing<br>Love building ML models, exploring new tech stacks<br><br>
 
 
 # 💻 Tech Stack:
