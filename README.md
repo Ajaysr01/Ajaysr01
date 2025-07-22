@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# About Me:
 Improving my skills in Machine Learning and AI<br>Understanding advanced AI concepts like reinforcement learning<br>and natural language processing<br>Love building ML models, exploring new tech stacks<br><br>
 
 
