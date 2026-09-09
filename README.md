@@ -1,5 +1,3 @@
-# Ajay Singh Rathore
-
 ### Software Engineer | AI & Machine Learning | Full-Stack Developer
 
 Welcome to my GitHub profile. I am a Computer Science engineering student specializing in Artificial Intelligence and Machine Learning, with a robust foundation in backend development and scalable system design. I am passionate about building intelligent systems, architecting reliable platforms, and solving complex algorithmic challenges.
