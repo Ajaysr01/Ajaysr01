@@ -1,3 +1,5 @@
+# Ciao <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ### Software Engineer | AI & Machine Learning | Full-Stack Developer
 
 Welcome to my GitHub profile. I am a Computer Science engineering student specializing in Artificial Intelligence and Machine Learning, with a robust foundation in backend development and scalable system design. I am passionate about building intelligent systems, architecting reliable platforms, and solving complex algorithmic challenges.
@@ -11,44 +13,19 @@ Welcome to my GitHub profile. I am a Computer Science engineering student specia
 
 ## Technical Expertise
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,react,postgres,mysql,pytorch,tensorflow,fastapi,flask,docker,linux,git,github&perline=7" />
+  </a>
 </p>
 
-### Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-<p>
-  <i><strong>Core Concepts:</strong> Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Embeddings, Transformers</i>
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <i><strong>Core AI/ML Concepts:</strong> Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Embeddings, Transformers, Scikit-Learn, Pandas, NumPy</i>
 </p>
 
 ## Connect with Me
-<p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ajayrathore10" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
